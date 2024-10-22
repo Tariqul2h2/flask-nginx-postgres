@@ -12,3 +12,4 @@ for example:
 ```
 192.168.122.200    flaskapp.com
 ```
+Then open your browser and use the simple basic multi-container-based web application. 
