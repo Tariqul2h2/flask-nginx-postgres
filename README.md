@@ -1,1 +1,2 @@
-# flask-nginx-postgres
+# flask-docker-testing
+Flask-based web application using Postgres
